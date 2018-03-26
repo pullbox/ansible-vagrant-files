@@ -4,5 +4,5 @@
 takipi:
   SECRET_KEY: "S34819#pJnWhbCjcdoGwYLq#8pXHxLFXPky3cf/sZuo96kZwFnaZ9Mw+86jPIV83d1Y=#5f12"
 
- DEBIAN_JAVA_VERSION: "openjdk-8-jdk"
- RHEL_JAVA_VERSION: "java-1.7.0-openjdk"
+DEBIAN_JAVA_VERSION: "openjdk-8-jdk"
+RHEL_JAVA_VERSION: "java-1.7.0-openjdk"
